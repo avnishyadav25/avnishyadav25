@@ -1,6 +1,5 @@
 # <p align='center'> Avnish Yadav</p>
 
-<br />
 # [![Avnish Yadav header](https://raw.githubusercontent.com/avnishyadav25/avnishyadav25/main/images/avnish-header.png)](https://avnishyadav.com)
 
 Hey there 👋,
