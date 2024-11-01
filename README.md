@@ -1,7 +1,35 @@
 # <p align='center'> Avnish Yadav</p>
 
 # 💫 About Me:
-<br>Hello! 👋 Welcome to my GitHub!<br><br>I’m Avnish Yadav, a seasoned Salesforce Developer II at United Airlines, where I specialize in crafting scalable solutions to enhance business processes and improve user experiences. With a deep passion for technology, I continuously explore emerging trends, sharing my knowledge through detailed blog posts on topics such as software development, the internet, and electronics. I believe in making learning accessible, and I strive to contribute to the tech community by demystifying complex concepts. You can find my blog and all my recent projects at avnishyadav.com.<br><br>A bit more about me:<br><br>🔭 Current Role: Salesforce Developer II at United Airlines, leading projects to optimize community cloud performance and deliver innovative solutions.<br>🌱 Current Learning Focus: Expanding my knowledge in Machine Learning and Cryptocurrency to stay ahead in the tech landscape.<br>🤖 Seeking Collaboration On Projects related to Chatbots and AI-driven automation.<br>💬 Ask Me About: Anything related to coding, internet technologies, or electronics. I love a challenge and, if I don’t know the answer, I’m always eager to learn and explore new ideas.<br>📫 Reach Out To Me At: aavnishyadav25@gmail.com. I’m always open to discussions, collaborations, or simply connecting with like-minded tech enthusiasts.<br>⚡ Fun Fact: Outside of coding, I’m passionate about traveling and reading. I believe that exploring new places and ideas broadens one’s perspective, both personally and professionally.<br><br>What Drives Me:<br><br>	•	A lifelong learner, I am dedicated to mastering new technologies and sharing my insights with the community.<br>	•	I thrive on solving real-world problems with innovative solutions, whether it’s through coding, automating workflows, or building meaningful digital experiences.<br>	•	Collaboration and open communication are at the heart of everything I do, and I’m always looking to connect with others who share a similar passion for technology and innovation.<br><br>Check out my projects, blog posts, and feel free to reach out if you’d like to collaborate on something exciting!
+# Hey there! 👋 Welcome to my GitHub!
+
+### Who am I? 🌍  
+I’m **Avnish Yadav**, currently diving into the tech world as a **Salesforce Developer II** at **United Airlines** ✈️. My work focuses on creating powerful solutions that scale, streamlining business processes, and enhancing user experience.
+
+With a strong curiosity for emerging tech, I enjoy breaking down complex concepts and sharing what I learn. My blog at [avnishyadav.com](https://avnishyadav.com) is a place where I cover everything from software development to internet tech and electronics—check it out!
+
+---
+
+### Here’s a snapshot 📸
+
+- **🔭 What I'm up to:** Salesforce Developer II, optimizing community cloud performance and building cool, innovative solutions.
+- **🌱 Learning:** Machine Learning & Cryptocurrency 🪙 (always staying ahead!)
+- **🤖 Collaboration?** Let’s build chatbots and AI-driven automation tools!
+- **💬 Ask me about:** Coding, internet tech, or electronics. I love a good challenge! 🚀
+- **📫 Connect with me:** aavnishyadav25@gmail.com
+- **⚡ Fun Fact:** Love traveling and reading—two hobbies that expand my mind as much as coding does.
+
+---
+
+### What drives me? 🚀
+
+- **Lifelong Learning:** Tech is an ever-growing landscape, and I’m here for the ride! I enjoy sharing insights with others who are just as passionate.
+- **Real-World Problem Solving:** Building solutions that work in real life, whether it’s through coding, automation, or enhancing user experiences, is what keeps me motivated.
+- **Collaboration:** Open communication and teamwork are the keys to innovation. I love connecting with like-minded tech enthusiasts to share, learn, and create together.
+
+---
+
+🎉 **Feel free to explore my projects, dive into my blog posts, and reach out if you want to collaborate!** Whether it’s a big idea or just a quick chat, I’m here to connect.
 
 
 ## 🌐 Socials:
